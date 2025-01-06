@@ -41,6 +41,10 @@ nav {
     padding-bottom: 25px;
 }
 
+.icons a:visited {
+    color: black;
+}
+
 /*TikTok*/
 
 #tik_tok {
