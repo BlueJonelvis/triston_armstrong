@@ -80,6 +80,10 @@ nav {
 
 /*Instagram*/
 
+#instagram {
+    padding-right: 20px;
+}
+
 #instagram:hover {
     color: white;
     transition: 0.3s;
